@@ -1,3 +1,4 @@
 # Chat-App
-
-Rock Paper Scissor Game
+This App Includes: 
+  Rock Paper Scissor Game and
+  Some Basic Responses
